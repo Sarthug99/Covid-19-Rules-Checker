@@ -16,7 +16,7 @@ where the employees cannot be shifted to work from home.
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/kaurramanpreet/Myntra_Comp.git
+$git clone https://github.com:Sarthug99/Covid-19-Rules-Checker.git
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
