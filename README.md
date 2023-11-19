@@ -1,7 +1,4 @@
-<img src="https://user-images.githubusercontent.com/29287671/97078166-ba3bde80-1607-11eb-9a4e-7d5e223e7d58.png" width="140">
 
-# Myntra HackerRamp
-## :bulb: Problem Statement
 ```
 An effective way to implement social distancing for On-Site Service employees working at places like warehouses, malls etc
 where the employees cannot be shifted to work from home.
@@ -14,10 +11,7 @@ where the employees cannot be shifted to work from home.
 * Yolov3
 * Flask
 
-## **STEPS IN OUR PROJECT**
-## :key: Prerequisites
-
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here]()
+## **STEPS IN THE PROJECT**
 
 ## 🚀&nbsp; Installation
 1. Clone the repo
@@ -28,14 +22,7 @@ $ git clone https://github.com/kaurramanpreet/Myntra_Comp.git
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
 ```
 $ mkvirtualenv test
-```
 
-3. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip3 install -r requirements.txt   (if python 3 is installed)
-$ pip install -r requirements.txt   (if python 2 is installed)
-```
-## :bulb: Working
 
 1. Open terminal. Go into the cloned project directory and type the following command:
 ```
